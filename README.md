@@ -13,3 +13,7 @@ A estrutura dos **eventos do Scrum** também foi essencial: reuniões diárias, 
 ## ✍️ Objetivo
 
 Demonstrar, por meio de uma resenha crítica, como a aplicação correta dos princípios do Scrum pode transformar não apenas processos de trabalho, mas também a cultura de equipes técnicas em grandes empresas como a Sony.
+
+## Material Agile42 – case de sucesso Sony:  
+
+https://www.agile42.com/en/success-stories/success-story-sony 
